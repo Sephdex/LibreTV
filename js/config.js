@@ -283,11 +283,11 @@ const API_SITES = {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源'
       },
-      kauiboziyuan: {
-        api: 'https://gayapi.com/api.php/provide/vod',
-        name: 'AV-快播资源网站', 
-        adult: true
-      },
+ //     kauiboziyuan: {
+ //       api: 'https://gayapi.com/api.php/provide/vod',
+ //       name: 'AV-快播资源网站', 
+ //       adult: true
+ //     },
       xingbaziyuan: {
         api: 'https://xingba111.com/api.php/provide/vod',
         name: 'AV-杏吧资源', 
