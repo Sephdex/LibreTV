@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-          api_2: {
+      api_2: {
         name: 'AV-155资源',
         api: 'https://155api.com/api.php/provide/vod',
         detail: 'https://155api.com', 
@@ -53,11 +53,11 @@ const API_SITES = {
         api: 'https://cj.yayazy.net/api.php/provide/vod',
         detail: 'https://cj.yayazy.net'
       },
-      api_10: {
-        name: 'TV-光速资源',
-        api: 'https://api.guangsuapi.com/api.php/provide/vod',
-        detail: 'https://api.guangsuapi.com'
-      },
+//       api_10: {
+//       name: 'TV-光速资源',
+//       api: 'https://api.guangsuapi.com/api.php/provide/vod',
+//       detail: 'https://api.guangsuapi.com'
+//     },
       api_14: {
         name: 'TV-天涯资源',
         api: 'https://tyyszy.com/api.php/provide/vod',
@@ -68,11 +68,11 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         detail: ''
       },
-      api_17: {
-        name: 'TV-新浪点播',
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        detail: 'https://api.xinlangapi.com'
-      },
+ //     api_17: {
+ //       name: 'TV-新浪点播',
+ //       api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+ //       detail: 'https://api.xinlangapi.com'
+ //     },
       api_18: {
         name: 'TV-无尽资源',
         api: 'https://api.wujinapi.com/api.php/provide/vod',
@@ -148,11 +148,11 @@ const API_SITES = {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         detail: 'https://caiji.maotaizy.cc'
       },
-      api_36: {
-        name: 'TV-虎牙资源',
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        detail: 'https://www.huyaapi.com'
-      },
+ //     api_36: {
+ //       name: 'TV-虎牙资源',
+ //       api: 'https://www.huyaapi.com/api.php/provide/vod',
+ //       detail: 'https://www.huyaapi.com'
+ //     },
       api_37: {
         name: 'TV-豆瓣资源',
         api: 'https://caiji.dbzy.tv/api.php/provide/vod',
@@ -163,11 +163,11 @@ const API_SITES = {
         api: 'https://dbzy.tv/api.php/provide/vod',
         detail: 'https://dbzy.tv'
       },
-      api_39: {
-        name: 'TV-豪华资源',
-        api: 'https://hhzyapi.com/api.php/provide/vod',
-        detail: 'https://hhzyapi.com'
-      },
+//      api_39: {
+//        name: 'TV-豪华资源',
+//        api: 'https://hhzyapi.com/api.php/provide/vod',
+//        detail: 'https://hhzyapi.com'
+//      },
       api_40: {
         name: 'TV-速博资源',
         api: 'https://subocaiji.com/api.php/provide/vod',
@@ -178,11 +178,11 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         detail: ''
       },
-      api_43: {
-        name: 'TV-金鹰资源',
-        api: 'https://jyzyapi.com/api.php/provide/vod',
-        detail: 'https://jyzyapi.com'
-      },
+ //     api_43: {
+ //       name: 'TV-金鹰资源',
+ //       api: 'https://jyzyapi.com/api.php/provide/vod',
+ //       detail: 'https://jyzyapi.com'
+ //     },
       api_44: {
         name: 'TV-閃電资源',
         api: 'https://sdzyapi.com/api.php/provide/vod',
